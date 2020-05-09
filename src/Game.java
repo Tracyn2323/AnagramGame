@@ -46,7 +46,7 @@ public class Game {
                 System.out.println("It's a word!");
             }
             turn++;
-            System.out.println("You have " + totalWords());
+            System.out.println("You have " + totalWords() + "points!");
         }
     }
 
